@@ -103,5 +103,11 @@ BYTEBOT_PLUGIN_CONFIG = {
     },
     'fuel': {
         'apikey': 'thiswoudbeyourapikey',
-    }
+    },
+    'issue' : {
+        'username': 'xxx',
+        'password': 'xxx',
+        'owner': 'xxx',
+        'name': 'xxx',
+    },
 }
