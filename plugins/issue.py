@@ -76,7 +76,7 @@ class issue(Plugin):
                     )
                     issue = self.make_github_issue(
                         soup.issue['t'], 
-                        soup.issue['b'], 
+                        soup.issue['b'] + "\nBy " + user.split("!~")[0], 
                         "", 
                         ['irc']
                     )
