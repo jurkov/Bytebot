@@ -115,4 +115,10 @@ BYTEBOT_PLUGIN_CONFIG = {
         'url': 'http://api.openweathermap.org/data/2.5/weather?units=metric&q=',
         'location': 'Erfurt,de'
     },
+    'issue' : {
+        'username': 'xxx',
+        'password': 'xxx',
+        'owner': 'xxx',
+        'name': 'xxx',
+    },
 }
