@@ -1,1 +1,1 @@
-worker: bytebot
+worker: irc3 config.ini
