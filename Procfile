@@ -1,1 +1,1 @@
-worker: irc3 config.ini
+bot: irc3 config.ini
